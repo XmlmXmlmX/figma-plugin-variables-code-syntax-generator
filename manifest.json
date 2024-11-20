@@ -1,0 +1,17 @@
+{
+  "name": "Variables Code Syntax Generator",
+  "id": "1316398013755280060",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma"
+  ],
+  "ui": "dist/ui.html",
+  "networkAccess": {
+    "allowedDomains": [
+      "https://rsms.me"
+    ]
+  }
+}
